@@ -1,0 +1,13 @@
+﻿  Sprite.cpp
+e:\year 1\sprite_guide\sprite_guide\sprite.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  ScrollingBackground.cpp
+e:\year 1\sprite_guide\sprite_guide\sprite.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Main.cpp
+e:\year 1\sprite_guide\sprite_guide\main.cpp(1): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Enemy.cpp
+e:\year 1\sprite_guide\sprite_guide\sprite.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CharacterController.cpp
+e:\year 1\sprite_guide\sprite_guide\sprite.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  AnimationSprite.cpp
+e:\year 1\sprite_guide\sprite_guide\sprite.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
